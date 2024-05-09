@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Good+day+to+you+and+to+me.)](https://git.io/typing-svg)
 
-![](https://raw.githubusercontent.com/yujiajunn/yujiajunn/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/yujiajunn/yujiajunn/output/github-contribution-grid-snake.svg)
 ![](https://raw.githubusercontent.com/yujiajunn/yujiajunn/main/dist/github-contribution-grid-snake.svg)
 
 ![Visitor Count](https://profile-counter.glitch.me/yujiajunn/count.svg)
