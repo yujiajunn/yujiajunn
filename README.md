@@ -4,6 +4,7 @@
 
 ![](https://raw.githubusercontent.com/yujiajunn/yujiajunn/output/github-contribution-grid-snake.svg)
 
+### Thank you for the visit.
 ![Visitor Count](https://profile-counter.glitch.me/yujiajunn/count.svg)
 
 <div align="center">
